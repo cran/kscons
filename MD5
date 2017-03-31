@@ -1,0 +1,17 @@
+3edb7807ddc39aeadabcc0157758455d *DESCRIPTION
+93a22469461042a8e35e55951dabbc46 *NAMESPACE
+42abec707abdbf6dfa8bb1ceadb2aaf7 *R/estimate.R
+e00fc46dd7dce270885c3e3f68cf1e93 *R/functions.R
+c672924b160540a695f8a476d18226fe *data/lklh.RData
+c717f739194a6c24bde7a4a2b38e381e *data/msa_example.txt.bz2
+034ef100572c0458df9ab4795f97701b *data/validation.RData
+e54818a5eb17b835435e5742fa8924a6 *man/allmodel_local_false.Rd
+fd563ee5d5e9f59c2b62730be4eca0fc *man/allmodel_local_true_free.Rd
+5beaf942e8832260fc45ea5b1f7079f7 *man/allmodel_local_true_knob.Rd
+1026e566b28c5ed6a596176f72de3ffd *man/allmodel_nonlocal_false.Rd
+93c13a8af8ec0707bc6118bad96cad9d *man/allmodel_nonlocal_true_free.Rd
+d7de35eeeadb8361e6db75bd15975835 *man/allmodel_nonlocal_true_knob.Rd
+c3b39b622455d8ef550fa2ccdc052a94 *man/kscons.Rd
+4e1cd13b6487fc9d4e985408f9e0280d *man/msa_example.Rd
+26f6f13b107e1375c78bf665e3d45609 *man/validation_local.Rd
+5f7dcd7c2eb17890571806dab59ae0a5 *man/validation_nonlocal.Rd

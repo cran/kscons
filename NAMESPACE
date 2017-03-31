@@ -1,0 +1,4 @@
+#exportPattern("^[[:alpha:]]+")
+export(estimate)
+importFrom("stats", "runif")
+importFrom("utils", "combn", "data")
